@@ -32,14 +32,14 @@
                 --gen_video \
                 --generate_from_audio_only
                 
-  2 Create the default folder ./checkpoints and unzip the demo.zip at ./checkpoints/demo. There should be 5 pths in it.  使用这里的时候注意解压文件必须要在demo下面，但是如果直接
-  直接解压就会将文件保存在demo/demo路径下，其他的解压也是同样的问题
-  
-  3 可以使用以下的命令来安装FFmpeg 4.0.0版本及其以上
-          sudo apt-get update
-          sudo apt-get install ffmpeg
-          
-  4 要在主文件下面创建这个./id_517600055_pose_517600078_audio_681600002文件夹
+    2 Create the default folder ./checkpoints and unzip the demo.zip at ./checkpoints/demo. There should be 5 pths in it.  使用这里的时候注意解压文件必须要在demo下面，但是如果直接
+      直接解压就会将文件保存在demo/demo路径下，其他的解压也是同样的问题
+
+    3 可以使用以下的命令来安装FFmpeg 4.0.0版本及其以上
+              sudo apt-get update
+              sudo apt-get install ffmpeg
+
+    4 要在主文件下面创建这个./id_517600055_pose_517600078_audio_681600002文件夹
   
   
 
